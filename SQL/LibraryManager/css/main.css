@@ -1,0 +1,51 @@
+div.scrollmenu {
+	width: 70%;
+	margin:0 auto;
+	background-color: #333;
+	overflow: auto;
+	white-space: nowrap;
+	}
+
+	div.scrollmenu a {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
+	}
+
+	div.scrollmenu a:hover {
+	background-color: #777;
+	}
+
+	div.scrolltop {
+	width: 70%;
+	margin:0 auto;
+	background-color: #fff;
+	}
+	div.scrolltop h2 {
+	  color: black;
+	  padding: 14px;
+	}
+	div.scrollmid {
+	width: 70%;
+	margin:0 auto;
+	background-color: #fff;
+	overflow: auto;
+	white-space: nowrap;
+	}
+	div.scrollmid h3 {
+	  color: black;
+	  padding: 14px;
+	}
+	div.scrollbot {
+	width: 70%;
+	margin:0 auto;
+	background-color: #fff;
+	overflow: auto;
+	white-space: nowrap;
+	}
+	div.scrollbot p {
+	  color: black;
+	  padding: 14px;
+	}
